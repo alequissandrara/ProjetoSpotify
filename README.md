@@ -1,5 +1,5 @@
-#REPLICA DO SITE DO SPOTIFY
-#Sobre o projeto
+REPLICA DO SITE DO SPOTIFY
+:::::Sobre o projeto:::::::::
 Este projeto foi feito através do VScode,
 utilizando recursos como HTML5, CSS3 e o framework Bootstrap,
 como ensinado em aula através do Curso da Udemy.
@@ -9,7 +9,7 @@ do Spotify de forma que o mesmo utilizasse
 muitos recursos oferecidos da ferramenta
 bootstrap e o deixasse totalmente responsivo.
 
-#Layout do Projeto
+:::::::Layout do Projeto:::::::::::
 ![image](https://user-images.githubusercontent.com/70325643/166518204-ed2ac5c1-97c7-4127-acb5-0a3b6fb7110c.png)
 ![image](https://user-images.githubusercontent.com/70325643/166518262-e68fad83-adb6-4eab-96f6-087aa8ef8b03.png)
 ![image](https://user-images.githubusercontent.com/70325643/166518482-7e900bcf-4e6e-46d5-8306-713bd2c5ac08.png)
