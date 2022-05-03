@@ -1,4 +1,3 @@
- Réplica do site do Spotify
 
 #Sobre o projeto
 Este projeto foi feito através do VScode,
