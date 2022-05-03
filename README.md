@@ -1,4 +1,4 @@
-# https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white Réplica do site do Spotify
+ Réplica do site do Spotify
 
 #Sobre o projeto
 Este projeto foi feito através do VScode,
